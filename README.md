@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/26539681/120572010-d4ffec80-c44d-11eb-975c-dacb2735d250.png)
 ![image](https://user-images.githubusercontent.com/26539681/120572257-3b850a80-c44e-11eb-89e1-6ed1f8c0f6a7.png)
 
-
+希望为.net开源社区尽绵薄之力，探lu者###一直在探索前进的路上###（QQ:529987528）
 
 
 
