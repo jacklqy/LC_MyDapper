@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj": {}
+    "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj": {
+    "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
+        "projectUniqueName": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
         "projectName": "Zhaoxi.AspNetCore.Model",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
+        "projectPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\obj\\",
+        "outputPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

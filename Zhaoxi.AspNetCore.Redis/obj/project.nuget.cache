@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q+j/B1BFYZLRPGVFtjRNHPPzjPc7oI6u6Dfa6uR3CkSZnfqX6ioTCFEf3EYRBDdAkoAqG/jmdqfdJr13LriWg==",
+  "dgSpecHash": "kDvYcN6P7gREa0RdvC6PAjTQyKA711lbo7MGzo5Gv3+VCe6fZwSKmQ1jKom9rJmTdt2t/+1ugvwT5pbXqsMZWQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
+  "projectFilePath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac\\5.1.0\\autofac.5.1.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",

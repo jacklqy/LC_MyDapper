@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ukWIyxp2J6wOaBiZPGK8iknsMN87/RfVw7cFTmOP3AI1xGunE8XV5O3G5xfu4nQg2xOmxH0pJGUIniax3reTFA==",
+  "dgSpecHash": "+Pav35Z2u6VBreexIZXPaWWdyMT6IVWhH2VCY6TLNfAFxAidKfXp7wjANARmSIi/W8CBDYy08Lz4kI3JmvN2Hw==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Project\\Zhaoxi.AspNetCore.Project.csproj",
+  "projectFilePath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Project\\Zhaoxi.AspNetCore.Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",

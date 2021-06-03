@@ -93,10 +93,10 @@ namespace Zhaoxi.AspNetCore.Service
         {
             DapperPlusActionSet<T> result = _Connection.BulkUpdate<T>(list);
             return result.CurrentItem;
-        } 
+        }
         #endregion
 
-
+        #region Get
         public T Get<T>(int Id) where T : class
         {
             //
@@ -107,7 +107,7 @@ namespace Zhaoxi.AspNetCore.Service
             _Connection = _Connectionfactory.GetConnection(WriteAndRead.Read);
             return _Connection.Get<T>(Id);
         }
-         
+
         public IEnumerable<T> Query<T>(string sql)
         {
             return _Connection.Query<T>(sql);
@@ -116,7 +116,8 @@ namespace Zhaoxi.AspNetCore.Service
         public IEnumerable<T> GetAll<T>() where T : class
         {
             return _Connection.GetAll<T>();
-        }
+        } 
+        #endregion
 
         /// <summary>
         /// 释放数据库连接

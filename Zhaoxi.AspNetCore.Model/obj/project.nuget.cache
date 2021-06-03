@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9AErGkT795zf2Qc2vsQSfGrqN/t2Ci0POFjaamS8I8H/M9nphnA721Z2eRbY/cncX7L3eHFJW3gSZ80QHi/VA==",
+  "dgSpecHash": "z1eBKdD3/ahkeIC56X8YPDA5HayK/QNbFbxXpX2lrEPczZJnUjbRzr8OWS1ykgSfsP7AW+AH/PUR1g4jxciBYQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
+  "projectFilePath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Model\\Zhaoxi.AspNetCore.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

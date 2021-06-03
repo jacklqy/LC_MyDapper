@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tsZWFMm8dR5UVvVAJ/bX2Cj5M8muteJW5trK0dCnjcM/32mJSPAffepjxNLPZcHAJSCeNbHfcMfSS6OoUHxIg==",
+  "dgSpecHash": "4Bk1VUzmdLR/rpc7GKLM2TY0Dm5FApn0J3xshmI7O1pr7UVJg0aZvnAfO/KbkqYrS2IJ1khh4pxGgN68BWACHA==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Web\\Zhaoxi.AspNetCore.Web.csproj",
+  "projectFilePath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Web\\Zhaoxi.AspNetCore.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

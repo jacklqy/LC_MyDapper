@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {}
+    "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {
+    "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
+        "projectUniqueName": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
         "projectName": "Zhaoxi.AspNetCore.Redis",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
+        "projectPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\obj\\",
+        "outputPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

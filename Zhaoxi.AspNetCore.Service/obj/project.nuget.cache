@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbsSm/OT5jzFxtGwFigpdTfv2rO4T3mADZQd/Vf4FNR7vfuVwx4N+EfGV6CQZrRBe05x8jUvoAde27z9Pwnt1A==",
+  "dgSpecHash": "DF91pLM26Wk+FGoRGNc3wcTs8kIQDLAajHV2IyxGafITqW3NztMy+SNPY4gHdL7rQJjKwfA4x1j73oWHW/ARQg==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
+  "projectFilePath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac\\5.1.0\\autofac.5.1.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\autofac.extras.dynamicproxy\\5.0.0\\autofac.extras.dynamicproxy.5.0.0.nupkg.sha512",

@@ -7399,11 +7399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
+      "projectUniqueName": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
       "projectName": "Zhaoxi.AspNetCore.Service",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
+      "projectPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Service\\Zhaoxi.AspNetCore.Service.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Service\\obj\\",
+      "outputPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7420,11 +7420,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Interface\\Zhaoxi.AspNetCore.Interface.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Interface\\Zhaoxi.AspNetCore.Interface.csproj"
+            "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Interface\\Zhaoxi.AspNetCore.Interface.csproj": {
+              "projectPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Interface\\Zhaoxi.AspNetCore.Interface.csproj"
             },
-            "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\Dapper\\0606Daper-3\\0606Daper-3\\Zhaoxi.AspNetCore\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj"
+            "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj": {
+              "projectPath": "D:\\github\\LC_MyDapper\\Zhaoxi.AspNetCore.Redis\\Zhaoxi.AspNetCore.Redis.csproj"
             }
           }
         }

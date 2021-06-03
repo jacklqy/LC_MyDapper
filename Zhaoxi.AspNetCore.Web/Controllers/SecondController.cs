@@ -28,8 +28,9 @@ namespace Zhaoxi.AspNetCore.Web.Controllers
         public IActionResult Index()
         {
             base.ViewBag.Date = DateTime.Now.ToString("yyyy-MM-dd HH:mm ss");
-            base.ViewBag.Port = _iConfiguration["port"]; 
-            return View();
+            base.ViewBag.Port = _iConfiguration["port"];
+            var company = _iUserService.Get<Company>(1);
+            return View(company);
         }
 
         public IActionResult IndexCache()
