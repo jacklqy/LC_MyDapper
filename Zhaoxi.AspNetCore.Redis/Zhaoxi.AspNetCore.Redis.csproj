@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="5.0.0" />
+    <PackageReference Include="ServiceStack.Interfaces" Version="5.8.0" />
+    <PackageReference Include="ServiceStack.Redis" Version="5.8.0" />
+  </ItemGroup>
+
+</Project>

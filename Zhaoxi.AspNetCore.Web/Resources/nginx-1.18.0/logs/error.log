@@ -1,0 +1,18 @@
+2020/06/06 16:57:57 [emerg] 16596#15840: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2020/06/06 17:01:36 [notice] 9148#25248: signal process started
+2020/06/06 17:01:36 [error] 9148#25248: CreateFile() "D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/06 17:02:24 [notice] 20820#23832: signal process started
+2020/06/06 17:02:24 [error] 20820#23832: CreateFile() "D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/06/06 17:07:49 [error] 7504#10172: *1 CreateFile() "D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8070", referrer: "http://localhost:8070/"
+2020/06/06 17:12:30 [notice] 9744#19980: signal process started
+2020/06/06 17:12:38 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9001/", host: "localhost:8070"
+2020/06/06 17:12:40 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9001/", host: "localhost:8070"
+2020/06/06 17:12:42 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9002/", host: "localhost:8070"
+2020/06/06 17:12:44 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9002/", host: "localhost:8070"
+2020/06/06 17:12:46 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://[::1]:9003/", host: "localhost:8070"
+2020/06/06 17:12:48 [error] 4984#20028: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9003/", host: "localhost:8070"
+2020/06/06 17:52:54 [emerg] 19488#1400: host not found in upstream "coreWebApi" in D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/conf/nginx.conf:64
+2020/06/06 17:54:44 [alert] 9372#2396: worker process 19920 exited with code 1
+2020/06/06 17:54:44 [alert] 9372#2396: could not respawn worker
+2020/06/06 17:54:56 [emerg] 2652#13652: host not found in upstream "coreWebApi" in D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/conf/nginx.conf:64
+2020/06/06 17:56:21 [emerg] 3864#18324: host not found in upstream "coreWebApi" in D:\zhaoxiEDU\Public2020\ZX_Dapper\0606Daper-3\nginx-1.18.0/conf/nginx.conf:64

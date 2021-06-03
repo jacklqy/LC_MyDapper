@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extras.DynamicProxy" Version="5.0.0" />
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.35" />
+    <PackageReference Include="MiniProfiler.AspNetCore" Version="4.1.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="Z.Dapper.Plus" Version="3.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zhaoxi.AspNetCore.Interface\Zhaoxi.AspNetCore.Interface.csproj" />
+    <ProjectReference Include="..\Zhaoxi.AspNetCore.Redis\Zhaoxi.AspNetCore.Redis.csproj" />
+  </ItemGroup>
+
+</Project>

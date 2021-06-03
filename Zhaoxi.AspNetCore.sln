@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore.Project", "Zhaoxi.AspNetCore.Project\Zhaoxi.AspNetCore.Project.csproj", "{1822EE03-5383-49E2-8ACA-6039E5547AA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore.Model", "Zhaoxi.AspNetCore.Model\Zhaoxi.AspNetCore.Model.csproj", "{F5C3EE2F-B67B-4556-805D-68DBDFC41221}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore.Service", "Zhaoxi.AspNetCore.Service\Zhaoxi.AspNetCore.Service.csproj", "{0CC9260E-55CE-4B22-8085-469844814498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore.Interface", "Zhaoxi.AspNetCore.Interface\Zhaoxi.AspNetCore.Interface.csproj", "{40545141-5D6C-4F28-8D17-1B41319AAFC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zhaoxi.AspNetCore.Web", "Zhaoxi.AspNetCore.Web\Zhaoxi.AspNetCore.Web.csproj", "{E71FBC4C-5689-48E4-AF94-D4717EE22888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhaoxi.AspNetCore.Redis", "Zhaoxi.AspNetCore.Redis\Zhaoxi.AspNetCore.Redis.csproj", "{AEDF7C89-9D79-40F5-AC65-A2BFBFA81079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1822EE03-5383-49E2-8ACA-6039E5547AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1822EE03-5383-49E2-8ACA-6039E5547AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1822EE03-5383-49E2-8ACA-6039E5547AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1822EE03-5383-49E2-8ACA-6039E5547AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C3EE2F-B67B-4556-805D-68DBDFC41221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C3EE2F-B67B-4556-805D-68DBDFC41221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C3EE2F-B67B-4556-805D-68DBDFC41221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C3EE2F-B67B-4556-805D-68DBDFC41221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC9260E-55CE-4B22-8085-469844814498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC9260E-55CE-4B22-8085-469844814498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC9260E-55CE-4B22-8085-469844814498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC9260E-55CE-4B22-8085-469844814498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40545141-5D6C-4F28-8D17-1B41319AAFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40545141-5D6C-4F28-8D17-1B41319AAFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40545141-5D6C-4F28-8D17-1B41319AAFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40545141-5D6C-4F28-8D17-1B41319AAFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71FBC4C-5689-48E4-AF94-D4717EE22888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71FBC4C-5689-48E4-AF94-D4717EE22888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71FBC4C-5689-48E4-AF94-D4717EE22888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71FBC4C-5689-48E4-AF94-D4717EE22888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDF7C89-9D79-40F5-AC65-A2BFBFA81079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDF7C89-9D79-40F5-AC65-A2BFBFA81079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDF7C89-9D79-40F5-AC65-A2BFBFA81079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDF7C89-9D79-40F5-AC65-A2BFBFA81079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51253FC9-F7BB-44D6-8074-17E33E9A5EE7}
+	EndGlobalSection
+EndGlobal
